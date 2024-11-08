@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-git허브에서 수정
+git허브에서 수정2
 </body>
 </html>
