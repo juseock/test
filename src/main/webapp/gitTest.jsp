@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-TEST12351
-TEST12366575765576
+git허브에서 수정
 </body>
 </html>
