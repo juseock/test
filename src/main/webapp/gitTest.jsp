@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-git허브에서 수정
+소스충돌
 </body>
 </html>
